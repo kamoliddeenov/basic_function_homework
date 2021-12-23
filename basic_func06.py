@@ -1,3 +1,5 @@
-# Create a function called main.
+def main():
+    return "Muhammad Ali"
 
-# Return the value str type.
+x = main()
+print(x)
